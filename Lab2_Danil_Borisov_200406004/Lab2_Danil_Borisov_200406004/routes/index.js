@@ -22,6 +22,9 @@ router.get('/', function (req, res) {
         else if (method == "divide") { //division 
             console.log(x / y)
         }
+        else {
+            console.log("Error... You can only put add, substract, multiply or devide")
+        }
     }
     //using parse to create our url and use the function above to get our calculations
     newLab2(parseInt(req.query.x), parseInt(req.query.y), req.query.method)
