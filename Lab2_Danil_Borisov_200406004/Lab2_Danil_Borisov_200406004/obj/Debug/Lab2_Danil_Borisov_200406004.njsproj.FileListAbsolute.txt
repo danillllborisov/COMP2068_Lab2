@@ -1,0 +1,3 @@
+C:\Users\Danil\source\repos\Lab2_Danil_Borisov_200406004\Lab2_Danil_Borisov_200406004\obj\Debug\Lab2_Danil_Borisov_200406004.njsprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Lab2_Danil_Borisov_200406004\Lab2_Danil_Borisov_200406004\obj\Debug\Lab2_Danil_Borisov_200406004.njsproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Lab2_Danil_Borisov_200406004\Lab2_Danil_Borisov_200406004\bin\Microsoft.NodejsTools.WebRole.dll
