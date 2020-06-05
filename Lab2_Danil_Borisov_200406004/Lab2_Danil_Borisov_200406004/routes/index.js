@@ -25,6 +25,9 @@ router.get('/', function (req, res) {
     }
     //using parse to create our url and use the function above to get our calculations
     newLab2(parseInt(req.query.x), parseInt(req.query.y), req.query.method)
+    
+    //?method=multiply&x=16&y=4
+    //?method=divide&x=16&y=4
 
     res.render('index', { title: 'Express' });
 });
